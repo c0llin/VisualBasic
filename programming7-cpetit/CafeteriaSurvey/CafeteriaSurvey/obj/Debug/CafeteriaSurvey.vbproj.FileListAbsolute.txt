@@ -1,0 +1,28 @@
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.exe
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.pdb
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.xml
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.CafeteriaSurveyForm.resources
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.Resources.resources
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.vbproj.GenerateResource.Cache
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.exe
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.xml
+C:\Users\greg\AppData\Local\Temporary Projects\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.pdb
+C:\Solutions\Tutorial17Solutions\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.exe
+C:\Solutions\Tutorial17Solutions\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.xml
+C:\Solutions\Tutorial17Solutions\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.pdb
+C:\Examples\Tutorial17\Exercises\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.exe
+C:\Examples\Tutorial17\Exercises\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.xml
+C:\Examples\Tutorial17\Exercises\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.pdb
+C:\books\2012\SimplyVB2010\Examples\ch17\Exercises\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.exe
+C:\books\2012\SimplyVB2010\Examples\ch17\Exercises\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.xml
+C:\books\2012\SimplyVB2010\Examples\ch17\Exercises\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.pdb
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.exe
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.xml
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.pdb
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.exe
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.pdb
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.xml
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.CafeteriaSurveyForm.resources
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.Resources.resources
+F:\VB\programming7-cpetit\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.vbproj.GenerateResource.Cache

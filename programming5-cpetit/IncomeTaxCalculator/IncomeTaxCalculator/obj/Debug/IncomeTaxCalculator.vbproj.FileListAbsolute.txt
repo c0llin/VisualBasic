@@ -1,0 +1,9 @@
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.xml
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.IncomeTaxForm.resources
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.Resources.resources
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.vbproj.GenerateResource.Cache
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.xml
+F:\VB\programming5-cpetit\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb

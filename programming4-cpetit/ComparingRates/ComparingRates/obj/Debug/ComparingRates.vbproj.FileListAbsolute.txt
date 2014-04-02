@@ -1,0 +1,9 @@
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\bin\Debug\ComparingRates.exe
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\bin\Debug\ComparingRates.pdb
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\bin\Debug\ComparingRates.xml
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\obj\Debug\ComparingRates.ComparingRatesForm.resources
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\obj\Debug\ComparingRates.Resources.resources
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\obj\Debug\ComparingRates.vbproj.GenerateResource.Cache
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\obj\Debug\ComparingRates.exe
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\obj\Debug\ComparingRates.xml
+F:\VB\programming4-cpetit\ComparingRates\ComparingRates\obj\Debug\ComparingRates.pdb

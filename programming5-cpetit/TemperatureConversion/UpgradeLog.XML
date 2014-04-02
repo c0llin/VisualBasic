@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TemperatureConversion">
+</Property><Property Name="Solution File" Value="F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion.sln">
+</Property><Property Name="Date" Value="Sunday, March 9, 2014">
+</Property><Property Name="Time" Value="20:58 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TemperatureConversion.sln" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion.sln">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.vbproj" Description="Project file successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\TemperatureConversion.vbproj">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.vbproj.user" Description="Project user file successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\TemperatureConversion.vbproj.user">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.vb" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\TemperatureConversion.vb">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.Designer.vb" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\TemperatureConversion.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\My Project\Application.Designer.vb" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\My Project\Resources.Designer.vb" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\My Project\Settings.Designer.vb" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\My Project\Application.myapp" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\My Project\Settings.settings" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\My Project\Resources.resx" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.resx" Description="File successfully backed up as F:\VB\programming5-cpetit\TemperatureConversion\Backup\TemperatureConversion\TemperatureConversion.resx">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TemperatureConversion.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TemperatureConversion.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TemperatureConversion" Source="TemperatureConversion\TemperatureConversion.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

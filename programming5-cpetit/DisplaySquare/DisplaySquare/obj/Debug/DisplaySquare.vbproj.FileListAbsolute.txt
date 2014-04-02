@@ -1,0 +1,9 @@
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\bin\Debug\DisplaySquare.exe
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\bin\Debug\DisplaySquare.pdb
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\bin\Debug\DisplaySquare.xml
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\obj\Debug\DisplaySquare.DisplaySquareForm.resources
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\obj\Debug\DisplaySquare.Resources.resources
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\obj\Debug\DisplaySquare.vbproj.GenerateResource.Cache
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\obj\Debug\DisplaySquare.exe
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\obj\Debug\DisplaySquare.xml
+C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare\obj\Debug\DisplaySquare.pdb

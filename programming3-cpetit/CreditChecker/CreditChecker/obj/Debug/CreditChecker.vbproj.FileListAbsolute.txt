@@ -1,0 +1,9 @@
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\bin\Debug\CreditChecker.exe
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\bin\Debug\CreditChecker.pdb
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\bin\Debug\CreditChecker.xml
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\obj\Debug\CreditChecker.CreditCheckerForm.resources
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\obj\Debug\CreditChecker.Resources.resources
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\obj\Debug\CreditChecker.vbproj.GenerateResource.Cache
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\obj\Debug\CreditChecker.exe
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\obj\Debug\CreditChecker.xml
+D:\VB\programming3-cpetit\CreditChecker\CreditChecker\obj\Debug\CreditChecker.pdb

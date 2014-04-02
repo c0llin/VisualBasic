@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DisplaySquare">
+</Property><Property Name="Solution File" Value="C:\Users\cpetit\Downloads\DisplaySquare\DisplaySquare.sln">
+</Property><Property Name="Date" Value="Friday, March 07, 2014">
+</Property><Property Name="Time" Value="13:39 PM">
+</Property></Properties><Event ErrorLevel="0" Project="DisplaySquare" Source="DisplaySquare\DisplaySquare.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DisplaySquare" Source="DisplaySquare\DisplaySquare.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DisplaySquare.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DisplaySquare.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DisplaySquare" Source="DisplaySquare\DisplaySquare.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

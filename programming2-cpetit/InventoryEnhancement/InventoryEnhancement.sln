@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryEnhancement", "InventoryEnhancement\InventoryEnhancement.vbproj", "{DCF3E75D-8D1C-4E03-88E4-87B183DD6AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF3E75D-8D1C-4E03-88E4-87B183DD6AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF3E75D-8D1C-4E03-88E4-87B183DD6AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF3E75D-8D1C-4E03-88E4-87B183DD6AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF3E75D-8D1C-4E03-88E4-87B183DD6AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

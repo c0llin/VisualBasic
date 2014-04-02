@@ -1,0 +1,9 @@
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.pdb
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.xml
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.MilesPerGallonForm.resources
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.Resources.resources
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.vbproj.GenerateResource.Cache
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.exe
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.xml
+F:\VB\programming5-cpetit\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.pdb

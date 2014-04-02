@@ -1,0 +1,28 @@
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\bin\Debug\WorldClock.exe
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\bin\Debug\WorldClock.pdb
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\bin\Debug\WorldClock.xml
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\obj\Debug\WorldClock.Resources.resources
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\obj\Debug\WorldClock.WorldClockForm.resources
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\obj\Debug\WorldClock.vbproj.GenerateResource.Cache
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\obj\Debug\WorldClock.exe
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\obj\Debug\WorldClock.xml
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\WorldClock\obj\Debug\WorldClock.pdb
+C:\Solutions\Tutorial14Solutions\WorldClock\WorldClock\obj\Debug\WorldClock.exe
+C:\Solutions\Tutorial14Solutions\WorldClock\WorldClock\obj\Debug\WorldClock.xml
+C:\Solutions\Tutorial14Solutions\WorldClock\WorldClock\obj\Debug\WorldClock.pdb
+C:\Examples\Tutorial14\Exercises\WorldClock\WorldClock\obj\Debug\WorldClock.exe
+C:\Examples\Tutorial14\Exercises\WorldClock\WorldClock\obj\Debug\WorldClock.xml
+C:\Examples\Tutorial14\Exercises\WorldClock\WorldClock\obj\Debug\WorldClock.pdb
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\WorldClock\WorldClock\obj\Debug\WorldClock.exe
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\WorldClock\WorldClock\obj\Debug\WorldClock.xml
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\WorldClock\WorldClock\obj\Debug\WorldClock.pdb
+F:\VB\programming6-cpetit\WorldClock\WorldClock\obj\Debug\WorldClock.exe
+F:\VB\programming6-cpetit\WorldClock\WorldClock\obj\Debug\WorldClock.xml
+F:\VB\programming6-cpetit\WorldClock\WorldClock\obj\Debug\WorldClock.pdb
+F:\VB\programming6-cpetit\WorldClock\WorldClock\bin\Debug\WorldClock.exe
+F:\VB\programming6-cpetit\WorldClock\WorldClock\bin\Debug\WorldClock.pdb
+F:\VB\programming6-cpetit\WorldClock\WorldClock\bin\Debug\WorldClock.xml
+F:\VB\programming6-cpetit\WorldClock\WorldClock\obj\Debug\WorldClock.Resources.resources
+F:\VB\programming6-cpetit\WorldClock\WorldClock\obj\Debug\WorldClock.WorldClockForm.resources
+F:\VB\programming6-cpetit\WorldClock\WorldClock\obj\Debug\WorldClock.vbproj.GenerateResource.Cache

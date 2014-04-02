@@ -1,0 +1,9 @@
+F:\VB\programming4-cpetit\PresentValue\PresentValue\bin\Debug\PresentValue.exe
+F:\VB\programming4-cpetit\PresentValue\PresentValue\bin\Debug\PresentValue.pdb
+F:\VB\programming4-cpetit\PresentValue\PresentValue\bin\Debug\PresentValue.xml
+F:\VB\programming4-cpetit\PresentValue\PresentValue\obj\Debug\PresentValue.Resources.resources
+F:\VB\programming4-cpetit\PresentValue\PresentValue\obj\Debug\PresentValue.PresentValueForm.resources
+F:\VB\programming4-cpetit\PresentValue\PresentValue\obj\Debug\PresentValue.vbproj.GenerateResource.Cache
+F:\VB\programming4-cpetit\PresentValue\PresentValue\obj\Debug\PresentValue.exe
+F:\VB\programming4-cpetit\PresentValue\PresentValue\obj\Debug\PresentValue.xml
+F:\VB\programming4-cpetit\PresentValue\PresentValue\obj\Debug\PresentValue.pdb

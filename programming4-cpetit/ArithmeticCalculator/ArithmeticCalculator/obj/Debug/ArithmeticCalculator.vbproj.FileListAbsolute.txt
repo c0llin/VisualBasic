@@ -1,0 +1,9 @@
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.ArithmeticCalculatorForm.resources
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.Resources.resources
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.vbproj.GenerateResource.Cache
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.exe
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.pdb
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.xml
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.exe
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.xml
+F:\VB\programming4-cpetit\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.pdb

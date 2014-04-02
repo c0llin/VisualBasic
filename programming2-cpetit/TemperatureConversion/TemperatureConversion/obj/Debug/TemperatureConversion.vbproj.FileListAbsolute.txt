@@ -1,0 +1,9 @@
+D:\VB\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+D:\VB\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+D:\VB\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.xml
+D:\VB\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.Resources.resources
+D:\VB\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.TemperatureConversionForm.resources
+D:\VB\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.vbproj.GenerateResource.Cache
+D:\VB\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+D:\VB\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.xml
+D:\VB\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.pdb

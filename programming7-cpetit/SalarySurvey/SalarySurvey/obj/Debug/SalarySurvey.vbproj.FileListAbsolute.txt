@@ -1,0 +1,28 @@
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\bin\Debug\SalarySurvey.exe
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\bin\Debug\SalarySurvey.pdb
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\bin\Debug\SalarySurvey.xml
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\obj\Debug\SalarySurvey.Resources.resources
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\obj\Debug\SalarySurvey.SalarySurveyForm.resources
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\obj\Debug\SalarySurvey.vbproj.GenerateResource.Cache
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\obj\Debug\SalarySurvey.exe
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\obj\Debug\SalarySurvey.xml
+C:\Users\greg\AppData\Local\Temporary Projects\SalarySurvey\obj\Debug\SalarySurvey.pdb
+C:\Solutions\Tutorial17Solutions\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.exe
+C:\Solutions\Tutorial17Solutions\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.xml
+C:\Solutions\Tutorial17Solutions\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.pdb
+C:\Examples\Tutorial17\Exercises\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.exe
+C:\Examples\Tutorial17\Exercises\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.xml
+C:\Examples\Tutorial17\Exercises\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.pdb
+C:\books\2012\SimplyVB2010\Examples\ch17\Exercises\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.exe
+C:\books\2012\SimplyVB2010\Examples\ch17\Exercises\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.xml
+C:\books\2012\SimplyVB2010\Examples\ch17\Exercises\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.pdb
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.exe
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.xml
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.pdb
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\bin\Debug\SalarySurvey.exe
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\bin\Debug\SalarySurvey.pdb
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\bin\Debug\SalarySurvey.xml
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.Resources.resources
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.SalarySurveyForm.resources
+F:\VB\programming7-cpetit\SalarySurvey\SalarySurvey\obj\Debug\SalarySurvey.vbproj.GenerateResource.Cache

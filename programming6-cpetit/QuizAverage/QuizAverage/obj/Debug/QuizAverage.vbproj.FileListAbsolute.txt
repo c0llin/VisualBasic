@@ -1,0 +1,9 @@
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\bin\Debug\QuizAverage.exe
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\bin\Debug\QuizAverage.pdb
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\bin\Debug\QuizAverage.xml
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\obj\Debug\QuizAverage.Resources.resources
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\obj\Debug\QuizAverage.QuizAverageForm.resources
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\obj\Debug\QuizAverage.vbproj.GenerateResource.Cache
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\obj\Debug\QuizAverage.exe
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\obj\Debug\QuizAverage.xml
+F:\VB\programming6-cpetit\QuizAverage\QuizAverage\obj\Debug\QuizAverage.pdb

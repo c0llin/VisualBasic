@@ -1,0 +1,9 @@
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\bin\Debug\InventoryEnhancement.exe
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\bin\Debug\InventoryEnhancement.pdb
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\bin\Debug\InventoryEnhancement.xml
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\obj\Debug\InventoryEnhancement.InventoryForm.resources
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\obj\Debug\InventoryEnhancement.Resources.resources
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\obj\Debug\InventoryEnhancement.vbproj.GenerateResource.Cache
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\obj\Debug\InventoryEnhancement.exe
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\obj\Debug\InventoryEnhancement.xml
+C:\Users\cpetit\working\InventoryEnhancement\InventoryEnhancement\obj\Debug\InventoryEnhancement.pdb

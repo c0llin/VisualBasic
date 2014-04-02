@@ -1,0 +1,16 @@
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\bin\Debug\Maximum.exe
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\bin\Debug\Maximum.pdb
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\bin\Debug\Maximum.xml
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\obj\Debug\ResolveAssemblyReference.cache
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\obj\Debug\Maximum.MaximumForm.resources
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\obj\Debug\Maximum.Resources.resources
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\obj\Debug\Maximum.vbproj.GenerateResource.Cache
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\obj\Debug\Maximum.exe
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\obj\Debug\Maximum.xml
+C:\Examples\Tutorial13\CompletedApplication\Maximum\Maximum\obj\Debug\Maximum.pdb
+C:\Examples\Tutorial15\Exercises\Maximum\Maximum\obj\Debug\Maximum.exe
+C:\Examples\Tutorial15\Exercises\Maximum\Maximum\obj\Debug\Maximum.xml
+C:\Examples\Tutorial15\Exercises\Maximum\Maximum\obj\Debug\Maximum.pdb
+C:\books\2012\SimplyVB2010\Examples\ch15\Exercises\Maximum\Maximum\obj\Debug\Maximum.exe
+C:\books\2012\SimplyVB2010\Examples\ch15\Exercises\Maximum\Maximum\obj\Debug\Maximum.xml
+C:\books\2012\SimplyVB2010\Examples\ch15\Exercises\Maximum\Maximum\obj\Debug\Maximum.pdb

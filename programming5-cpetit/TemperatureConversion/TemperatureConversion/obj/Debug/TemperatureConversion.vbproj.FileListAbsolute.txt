@@ -1,0 +1,9 @@
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.xml
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.Resources.resources
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.TemperatureConversionForm.resources
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.vbproj.GenerateResource.Cache
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.xml
+F:\VB\programming5-cpetit\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.pdb

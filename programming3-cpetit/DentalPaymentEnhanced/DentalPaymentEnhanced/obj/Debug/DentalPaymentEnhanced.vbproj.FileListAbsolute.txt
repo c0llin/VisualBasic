@@ -1,0 +1,9 @@
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\obj\Debug\DentalPaymentEnhanced.DentalPaymentForm.resources
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\obj\Debug\DentalPaymentEnhanced.Resources.resources
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\obj\Debug\DentalPaymentEnhanced.vbproj.GenerateResource.Cache
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\bin\Debug\DentalPaymentEnhanced.exe
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\bin\Debug\DentalPaymentEnhanced.pdb
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\bin\Debug\DentalPaymentEnhanced.xml
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\obj\Debug\DentalPaymentEnhanced.exe
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\obj\Debug\DentalPaymentEnhanced.xml
+D:\VB\programming3-cpetit\DentalPaymentEnhanced\DentalPaymentEnhanced\obj\Debug\DentalPaymentEnhanced.pdb

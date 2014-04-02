@@ -1,0 +1,35 @@
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\bin\Debug\AlarmClock.xml
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\obj\Debug\AlarmClock.AlarmClockForm.resources
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\obj\Debug\AlarmClock.Resources.resources
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\obj\Debug\AlarmClock.vbproj.GenerateResource.Cache
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\obj\Debug\AlarmClock.xml
+C:\Users\DemoMachine\AppData\Local\Temporary Projects\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\obj\Debug\AlarmClock.xml
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\bin\Debug\AlarmClock.xml
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\obj\Debug\AlarmClock.AlarmClockForm.resources
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Resources.resources
+C:\Solutions\Tutorial14Solutions\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbproj.GenerateResource.Cache
+C:\Examples\Tutorial14\Exercises\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Examples\Tutorial14\Exercises\AlarmClock\AlarmClock\obj\Debug\AlarmClock.xml
+C:\Examples\Tutorial14\Exercises\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\AlarmClock\AlarmClock\obj\Debug\AlarmClock.xml
+C:\books\2012\SimplyVB2010\Examples\ch14\Exercises\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\obj\Debug\AlarmClock.xml
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\bin\Debug\AlarmClock.xml
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\obj\Debug\AlarmClock.AlarmClockForm.resources
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Resources.resources
+F:\VB\programming6-cpetit\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbproj.GenerateResource.Cache

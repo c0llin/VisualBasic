@@ -1,0 +1,9 @@
+C:\Users\cpetit\AccountInformation\AccountInformation\bin\Debug\AccountInformation.exe
+C:\Users\cpetit\AccountInformation\AccountInformation\bin\Debug\AccountInformation.pdb
+C:\Users\cpetit\AccountInformation\AccountInformation\bin\Debug\AccountInformation.xml
+C:\Users\cpetit\AccountInformation\AccountInformation\obj\Debug\AccountInformation.AccountInformationForm.resources
+C:\Users\cpetit\AccountInformation\AccountInformation\obj\Debug\AccountInformation.Resources.resources
+C:\Users\cpetit\AccountInformation\AccountInformation\obj\Debug\AccountInformation.vbproj.GenerateResource.Cache
+C:\Users\cpetit\AccountInformation\AccountInformation\obj\Debug\AccountInformation.exe
+C:\Users\cpetit\AccountInformation\AccountInformation\obj\Debug\AccountInformation.xml
+C:\Users\cpetit\AccountInformation\AccountInformation\obj\Debug\AccountInformation.pdb

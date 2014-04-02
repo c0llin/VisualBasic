@@ -1,0 +1,9 @@
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.pdb
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.xml
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzDiceOrderForm.FuzzyDiceOrderForm.resources
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzDiceOrderForm.Resources.resources
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.vbproj.GenerateResource.Cache
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.xml
+D:\VB\programming3-cpetit\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb

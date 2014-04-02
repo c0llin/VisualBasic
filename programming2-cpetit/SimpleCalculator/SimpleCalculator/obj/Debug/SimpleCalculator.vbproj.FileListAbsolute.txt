@@ -1,0 +1,9 @@
+D:\VB\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\VB\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\VB\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+D:\VB\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Resources.resources
+D:\VB\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculatorForm.resources
+D:\VB\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.GenerateResource.Cache
+D:\VB\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\VB\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.xml
+D:\VB\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
